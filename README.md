@@ -1,0 +1,2 @@
+# ignoremeli
+just cook
